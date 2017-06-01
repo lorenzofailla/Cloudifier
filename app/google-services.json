@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "147986477444",
+    "firebase_url": "https://cloudifier-fa4c0.firebaseio.com",
+    "project_id": "cloudifier-fa4c0",
+    "storage_bucket": "cloudifier-fa4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147986477444:android:7ab243aa129ac63d",
+        "android_client_info": {
+          "package_name": "apps.lore_f.cloudifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147986477444-0qiod9lfiuo7l0ebioigg8i58rtlrunk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.lore_f.cloudifier",
+            "certificate_hash": "68353ab9e315e7a05fce03f6662d47405bb6d2e2"
+          }
+        },
+        {
+          "client_id": "147986477444-kmn9kqf47i5tp41bvnkdrennbvt3730k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB21RukgYbGhBJzAVaHTouJHPKtztauKAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147986477444-kmn9kqf47i5tp41bvnkdrennbvt3730k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
