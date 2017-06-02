@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Cloudifier</string>
+
+    <!-- MainActivity -->
+    <string name="MainActivity_Menu_signOut">Sign out</string>
+    <string name="MainActivity_Menu_quitApp">Quit</string>
+
+    <!-- SignInActivity -->
+    <string name="SignInActivity_signIn">Sign in</string>
+
 </resources>

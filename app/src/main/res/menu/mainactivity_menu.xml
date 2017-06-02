@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+    android:id="@+id/sign_out_menuEntry"
+    android:title="@string/MainActivity_Menu_signOut"
+    app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/quit_app_menuEntry"
+        android:title="@string/MainActivity_Menu_quitApp"
+        app:showAsAction="never"/>
+
+</menu>
